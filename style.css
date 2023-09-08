@@ -1,0 +1,22 @@
+body {
+    font-family: "helvetica neue", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height:1.42857143m;
+    color: #333;
+    background-color: #fff;
+}
+
+.patients{
+    background-color: aqua;
+}
+
+.doctors{
+    background-color: aquamarine;
+}
+
+.clinic{
+    background-color: mediumaquamarine;
+}
+.que4{
+    background-color: rgb(165, 253, 224);
+}
